@@ -92,9 +92,9 @@ const khelaf = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khelafbns&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00aaff&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khelafbns&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00aaff&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelafbns&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelafbns&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
